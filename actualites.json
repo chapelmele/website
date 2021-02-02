@@ -1,13 +1,21 @@
 [
 	{
 		"title": "Deuxieme actu",
+<<<<<<< HEAD
 		"content":"Duis aute irure dolor in .",
+=======
+		"content":"Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. AspDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. AspDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. AspDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
+>>>>>>> e210d9c2727a598aac6d91bcdc4da5f339697e6d
 		"picture":"porte.JPG",
 		"date":"2021-02-02"
  	},
 	{
 		"title": "Première actu",
+<<<<<<< HEAD
 		"content":"Odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
+=======
+		"content":"Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
+>>>>>>> e210d9c2727a598aac6d91bcdc4da5f339697e6d
 		"picture":"vitrail.jpg",
 		"date":"2021-02-01"
  	}
