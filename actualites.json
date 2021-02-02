@@ -1,14 +1,14 @@
 [
 	{
 		"title": "Deuxieme actu",
-		"content":"Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. AspDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. AspDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. AspDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
-		"picture":"",
+		"content":"Duis aute irure dolor in .",
+		"picture":"porte.JPG",
 		"date":"2021-02-02"
  	},
 	{
 		"title": "Première actu",
-		"content":"Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
-		"picture":"/static/img/presentation/cour-chatelets-vue-aerienne.jpg",
+		"content":"Odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
+		"picture":"vitrail.jpg",
 		"date":"2021-02-01"
  	}
 ]
